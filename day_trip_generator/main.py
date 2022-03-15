@@ -1,0 +1,8 @@
+
+import references.functions
+
+references.functions.run_time_start_message
+references.functions.random_location
+references.functions.random_transporation
+references.functions.random_dining_list
+references.functions.random_diner_location
