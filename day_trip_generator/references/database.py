@@ -1,6 +1,8 @@
 list_of_cities = ['charleston, South Carolina', 'Santa Fe, New Mexico', 'Dallas, Texas', 'New Orleans', 'New York City', 'San Antonio, Texas' ]
 list_of_transportation = ['Rental car', 'Bus', 'Train', 'Uber', 'Walk']
 
+
+
 list_of_attractions_charleston = ['Sullivans island', 'Folly beach', 'Charleston walking tours', 'The aiken-rhett house museum', 'Crafted travel brewery tours']
 list_of_attractions_santa_fe = ['Santa fe plaza', 'Canyon road', 'New Mexico history museum', 'Santa fe opera house', 'Palace of governors']
 list_of_attractions_dallas = ['Sundance square', 'Fort worth stockyards national history district', 'Fort worth zoo', 'Kimbell art museum', 'George W. bush presidential library & museum']

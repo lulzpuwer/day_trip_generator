@@ -6,3 +6,7 @@ references.functions.random_location
 references.functions.random_transporation
 references.functions.random_dining_list
 references.functions.random_diner_location
+references.functions.random_attractions_list
+references.functions.random_attraction_location
+references.functions.draft_final_destination
+# references.functions.the_final_destination
